@@ -1,0 +1,21 @@
+{
+  "name": "cow.sensorpeer",
+  "homepage": "https://github.com/Geodan/cow.sensorpeer",
+  "authors": [
+    "Tom van Tilburg <tom.van.tilburg@gmail.com>"
+  ],
+  "description": "Cow instance that connects to sensor",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cow": "~2.2.1"
+  }
+}
