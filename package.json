@@ -1,0 +1,25 @@
+{
+  "name": "cow.sensorpeer",
+  "version": "0.0.1",
+  "description": "Cow instance connected to a sensor",
+  "main": "sensorpeer.js",
+  "dependencies": {
+    "pg-native": "^1.10.0",
+    "proj4": "^2.3.12",
+    "websocket": "^1.0.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geodan/cow.sensorpeer.git"
+  },
+  "author": "Tom van Tilburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Geodan/cow.sensorpeer/issues"
+  },
+  "homepage": "https://github.com/Geodan/cow.sensorpeer#readme"
+}
